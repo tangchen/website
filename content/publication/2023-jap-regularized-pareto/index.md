@@ -1,16 +1,16 @@
 ---
-title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
+title: "Adverse Impact Reduction and Job Performance Optimization via Pareto-Optimal Weighting: A Shrinkage Formula and Regularization Technique Using Machine Learning"
 authors:
+- Q. Chelsea Song
 - admin
-- Ying Chen
-- Wu Wei
 - Daniel A. Newman
+- Serena Wee
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-04"
-doi: "10.1007/s10551-023-05534-6"
-draft: true
+date: "2023-04-10"
+doi: "10.1037/apl0001085"
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-12-04"
@@ -22,10 +22,10 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Business Ethics, 1*(1)"
-publication: "*Journal of Business Ethics*"
+publication: "*Journal of Applied Psychology*"
 publication_short: ""
 
-abstract: Drawing on the transactional model of stress and leader-member exchange (LMX) theory, we examine the role of performance pressure in relation to unethical pro-organizational behavior (UPB). We propose that (1) employee perceived performance pressure and LMX interact to increase employees’ willingness to engage in UPB, and (2) employees’ threat appraisal mediates this interaction effect. The results from two studies based on samples of employees in the United States and China supported our theoretical model. We found that LMX moderated the relation between performance pressure and the willingness to engage in UPB, such that the relation was stronger when LMX was high (Study 1). Moreover, the conditional indirect effect (i.e., performance pressure on UPB through threat appraisal with LMX as a moderator at the first stage) was also supported (Study 2). These findings highlight the role of performance pressure and LMX in inducing unethical work behaviors that are aimed at benefiting the organization (i.e., UPB). Theoretical and managerial implications are also discussed.
+abstract: In personnel selection practice, one useful technique for reducing adverse impact and enhancing diversity is the Pareto-optimal weighting approach of De Corte et al. (2007). This approach produces a series of hiring solutions that characterize a diversity–job performance trade-off and can lead to more optimal selection outcomes (sometimes doubling the number of job offers for minority applicants without changing the job performance outcomes of personnel selection). Despite these advantages, recent research has identified a potential problem with the Pareto-weighting technique—Pareto solutions suffer from shrinkage upon cross-validation. To address the problem of shrinkage in the Pareto trade-off curve (i.e., diversity shrinkage and validity shrinkage), we offer two contributions. First, a shrinkage approximation formula is introduced (similar to a formula for adjusted &R^2&, but applicable to the entire Pareto trade-off curve). Second, we derive a novel technique for the regularization of Pareto-optimal predictor weights (borrowed from the field of machine learning), which is designed to produce predictor weights that are less vulnerable to shrinkage (similar to ridge regression and adapted from the elastic net technique). Both approaches—the proposed Pareto shrinkage formula and the proposed regularization technique—are then evaluated using Monte Carlo simulation. Recommendations are provided for approximating potential diversity–performance trade-off curves in personnel selection, while accounting for shrinkage.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

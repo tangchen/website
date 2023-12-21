@@ -1,16 +1,17 @@
 ---
-title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
+title: "Investigating machine learning's capacity to enhance the prediction of career choices"
 authors:
+- Q. Chelsea Song
+- Hyun Joo Shin
 - admin
-- Ying Chen
-- Wu Wei
-- Daniel A. Newman
+- Alexis Hanna
+- Tara Behrend
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-04"
+date: "2022-05-27"
 doi: "10.1007/s10551-023-05534-6"
-draft: true
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-12-04"
@@ -22,10 +23,10 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Business Ethics, 1*(1)"
-publication: "*Journal of Business Ethics*"
+publication: "*Personnel Psychology*"
 publication_short: ""
 
-abstract: Drawing on the transactional model of stress and leader-member exchange (LMX) theory, we examine the role of performance pressure in relation to unethical pro-organizational behavior (UPB). We propose that (1) employee perceived performance pressure and LMX interact to increase employees’ willingness to engage in UPB, and (2) employees’ threat appraisal mediates this interaction effect. The results from two studies based on samples of employees in the United States and China supported our theoretical model. We found that LMX moderated the relation between performance pressure and the willingness to engage in UPB, such that the relation was stronger when LMX was high (Study 1). Moreover, the conditional indirect effect (i.e., performance pressure on UPB through threat appraisal with LMX as a moderator at the first stage) was also supported (Study 2). These findings highlight the role of performance pressure and LMX in inducing unethical work behaviors that are aimed at benefiting the organization (i.e., UPB). Theoretical and managerial implications are also discussed.
+abstract: Vocational interest measurement has long played a significant role in work contexts, particularly in helping individuals make career choices. A recent meta-analysis indicated that interest inventories have substantial validity for predicting career choices. However, traditional approaches to interest inventory scoring (e.g., profile matching) typically capture broad, or average relations between vocational interests and occupations in the population, yet may not be accurate in capturing the specific relations in a given sample. Machine learning (ML) approaches provide a potential way forward as they can effectively take into account complexities in the relation between interests and career choices. Thus, this study aims to enhance the accuracy of interest inventory-based career choice prediction through the application of ML. Using a large sample (N = 81,267) of employed and unemployed participants, we compared the prediction accuracy of a traditional interest profile method (profile matching) to a new machine-learning augmented method in predicting occupational membership (for employed participants) and vocational aspirations (for unemployed participants). Results suggest that, compared to the traditional profile method, the machine-learning augmented method resulted in higher overall accuracy for predicting both types of career choices. The machine-learning augmented method was especially predictive of job categories with high base rates, yet underpredicted job categories with low base rates. These findings have practical implications for improving the utility of interest inventories for organizational practice, contributing to areas such as employee development, recruitment, job placement, and retention.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

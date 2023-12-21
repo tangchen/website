@@ -1,16 +1,17 @@
 ---
-title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
+title: "Dropping the GRE, keeping the GRE, or GRE-optional admissions? Considering tradeoffs and fairness"
 authors:
-- admin
-- Ying Chen
-- Wu Wei
 - Daniel A. Newman
+- admin
+- Q. Chelsea Song
+- Serena Wee
+
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-04"
-doi: "10.1007/s10551-023-05534-6"
-draft: true
+date: "2022-01-27"
+doi: "10.1080/15305058.2021.2019750"
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-12-04"
@@ -22,10 +23,10 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Business Ethics, 1*(1)"
-publication: "*Journal of Business Ethics*"
+publication: "*International Journal of Testing*"
 publication_short: ""
 
-abstract: Drawing on the transactional model of stress and leader-member exchange (LMX) theory, we examine the role of performance pressure in relation to unethical pro-organizational behavior (UPB). We propose that (1) employee perceived performance pressure and LMX interact to increase employees’ willingness to engage in UPB, and (2) employees’ threat appraisal mediates this interaction effect. The results from two studies based on samples of employees in the United States and China supported our theoretical model. We found that LMX moderated the relation between performance pressure and the willingness to engage in UPB, such that the relation was stronger when LMX was high (Study 1). Moreover, the conditional indirect effect (i.e., performance pressure on UPB through threat appraisal with LMX as a moderator at the first stage) was also supported (Study 2). These findings highlight the role of performance pressure and LMX in inducing unethical work behaviors that are aimed at benefiting the organization (i.e., UPB). Theoretical and managerial implications are also discussed.
+abstract: "In considering whether to retain the GRE in graduate school admissions, admissions committees often pursue two objectives: (a) performance in graduate school (e.g., admitting individuals who will perform better in classes and research), and (b) diversity/fairness (e.g., equal selection rates between demographic groups). Drawing upon HR research (adverse impact research), we address four issues in using the GRE. First, we review the tension created between two robust findings: (a) validity of the GRE for predicting graduate school performance (rooted in the principle of standardization and a half-century of educational and psychometric research), and (b) the achievement gap in test scores between demographic groups (rooted in several centuries of systemic racism). This empirical tension can often produce a local diversity-performance tradeoff for admissions committees. Second, we use Pareto-optimal tradeoff curves to formalize potential diversity-performance tradeoffs, guiding how much weight to assign the GRE in admissions. Whether dropping the GRE produces suboptimal admissions depends upon one’s relative valuation of diversity versus performance. Third, we review three distinct notions of test fairness—equality, test equity, and performance equity—which have differing implications for dropping the GRE. Finally, we consider test fairness under GRE-optional admissions, noting the missing data problem when GRE is an incomplete variable."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

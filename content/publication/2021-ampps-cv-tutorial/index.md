@@ -1,16 +1,15 @@
 ---
-title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
+title: "Making Sense of Model Generalizability: A Tutorial on Cross-Validation in R and Shiny"
 authors:
+- Q. Chelsea Song
 - admin
-- Ying Chen
-- Wu Wei
-- Daniel A. Newman
+- Serena Wee
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-04"
-doi: "10.1007/s10551-023-05534-6"
-draft: true
+date: "2021-03-23"
+doi: "10.1177/2515245920947067"
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-12-04"
@@ -22,10 +21,10 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Business Ethics, 1*(1)"
-publication: "*Journal of Business Ethics*"
+publication: "*Advances in Methods and Practices in Psychological Science*"
 publication_short: ""
 
-abstract: Drawing on the transactional model of stress and leader-member exchange (LMX) theory, we examine the role of performance pressure in relation to unethical pro-organizational behavior (UPB). We propose that (1) employee perceived performance pressure and LMX interact to increase employees’ willingness to engage in UPB, and (2) employees’ threat appraisal mediates this interaction effect. The results from two studies based on samples of employees in the United States and China supported our theoretical model. We found that LMX moderated the relation between performance pressure and the willingness to engage in UPB, such that the relation was stronger when LMX was high (Study 1). Moreover, the conditional indirect effect (i.e., performance pressure on UPB through threat appraisal with LMX as a moderator at the first stage) was also supported (Study 2). These findings highlight the role of performance pressure and LMX in inducing unethical work behaviors that are aimed at benefiting the organization (i.e., UPB). Theoretical and managerial implications are also discussed.
+abstract: "Model generalizability describes how well the findings from a sample are applicable to other samples in the population. In this Tutorial, we explain model generalizability through the statistical concept of model overfitting and its outcome (i.e., validity shrinkage in new samples), and we use a Shiny app to simulate and visualize how model generalizability is influenced by three factors: model complexity, sample size, and effect size. We then discuss cross-validation as an approach for evaluating model generalizability and provide guidelines for implementing this approach. To help researchers understand how to apply cross-validation to their own research, we walk through an example, accompanied by step-by-step illustrations in R. This Tutorial is expected to help readers develop the basic knowledge and skills to use cross-validation to evaluate model generalizability in their research and practice."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

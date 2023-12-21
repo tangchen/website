@@ -1,16 +1,25 @@
 ---
 title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
 authors:
+- Nan Zhang
+- Mo Wang
+- Heng Xu
+- Nick Koenig
+- Louis Hickman
+- Jason Kuruzovich
+- Vincent Ng
+- Kofi Arhin
+- Danielle Wilson,
+- Q. Chelsea Song
 - admin
-- Ying Chen
-- Wu Wei
-- Daniel A. Newman
+- Leo Alexander III
+- Yesuel Kim
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-04"
-doi: "10.1007/s10551-023-05534-6"
-draft: true
+date: "2023-06-01"
+doi: "10.1111/peps.12593"
+draft: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-12-04"
@@ -22,10 +31,10 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Business Ethics, 1*(1)"
-publication: "*Journal of Business Ethics*"
+publication: "*Personnel Psychology*"
 publication_short: ""
 
-abstract: Drawing on the transactional model of stress and leader-member exchange (LMX) theory, we examine the role of performance pressure in relation to unethical pro-organizational behavior (UPB). We propose that (1) employee perceived performance pressure and LMX interact to increase employees’ willingness to engage in UPB, and (2) employees’ threat appraisal mediates this interaction effect. The results from two studies based on samples of employees in the United States and China supported our theoretical model. We found that LMX moderated the relation between performance pressure and the willingness to engage in UPB, such that the relation was stronger when LMX was high (Study 1). Moreover, the conditional indirect effect (i.e., performance pressure on UPB through threat appraisal with LMX as a moderator at the first stage) was also supported (Study 2). These findings highlight the role of performance pressure and LMX in inducing unethical work behaviors that are aimed at benefiting the organization (i.e., UPB). Theoretical and managerial implications are also discussed.
+abstract: Researchers have investigated whether machine learning (ML) may be able to resolve one of the most fundamental concerns in personnel selection, which is by helping reduce the subgroup differences (and resulting adverse impact) by race and gender in selection procedure scores. This article presents three such investigations. The findings show that the growing practice of making statistical adjustments to (nonlinear) ML algorithms to reduce subgroup differences must create predictive bias (differential prediction) as a mathematical certainty. This may reduce validity and inadvertently penalize high-scoring racial minorities. Similarly, one approach that adjusts the ML input data only slightly reduces the subgroup differences but at the cost of slightly reduced model accuracy. Other emerging tactics involve weighting predictors to balance or find a compromise between the competing goals of reducing subgroup differences while maintaining validity, but they have been limited to two outcomes. The third investigation extends this to three outcomes (e.g., validity, subgroup differences, and cost) and presents an online tool. Collectively, the studies in this article illustrate that ML is unlikely to be able to resolve the issue of adverse impact, but it may assist in finding incremental improvements.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
