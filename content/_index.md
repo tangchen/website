@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Champaign, IL
-          date_start: '2017-8-17'
-          date_end: '2023-5-15'
+          date_start: '2017-08-17'
+          date_end: '2023-05-15'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -237,7 +237,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: chentang@american.edu
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
