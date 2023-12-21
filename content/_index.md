@@ -85,7 +85,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-    - block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: |-

@@ -36,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Ph.D. in Human Resources and Industrial Relations
+      institution: University of Illinois Urbana-Champaign
+      year: 2023
+    - course: M.Ed. in Applied Psychology
+      institution: East China Normal University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: B.S. in Psychology
+      institution: East China Normal University
       year: 2008
 
 # Skills
