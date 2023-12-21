@@ -1,5 +1,5 @@
 ---
-title: "Under Pressure: LMX Drives Employee Unethical Pro-organizational Behavior via Threat Appraisals"
+title: "Reducing subgroup differences in personnel selection through the application of machine learning"
 authors:
 - Nan Zhang
 - Mo Wang
@@ -9,7 +9,7 @@ authors:
 - Jason Kuruzovich
 - Vincent Ng
 - Kofi Arhin
-- Danielle Wilson,
+- Danielle Wilson
 - Q. Chelsea Song
 - admin
 - Leo Alexander III
