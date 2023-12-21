@@ -10,9 +10,9 @@ address:
   city: Washington
   region: DC
   postcode: '20052'
-  # country: United States
+  country: United States
 
-summary: [Hidden because the project is under review].
+summary: '[Content hidden because the project is under review.]'
 abstract: ''
 
 # Talk start and end times.
