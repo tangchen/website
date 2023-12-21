@@ -49,7 +49,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Journal of Business Ethics**](https://link.springer.com/journal/10551'
+  caption: 'Image credit: [**Journal of Business Ethics**](https://media.springernature.com/w316/springer-static/cover-hires/journal/10551?as=webp)'
   focal_point: ""
   preview_only: false
 
