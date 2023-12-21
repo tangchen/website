@@ -10,7 +10,7 @@ sections:
     content:
       title: Chen Tang
       image:
-        filename: hero-academic.png
+        filename: icon_big.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Assistant Professor
+          company: Kogod School of Business, American University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Washington, DC
+          date_start: '2023-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: PhD Student
+          company: University of Illinois Urbana-Champaign
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Champaign, IL
+          date_start: '2017-8-17'
+          date_end: '2023-5-15'
+          # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
