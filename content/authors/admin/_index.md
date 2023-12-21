@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chen
+title: Chen Tang
 
 # Name pronunciation (optional)
 name_pronunciation:
