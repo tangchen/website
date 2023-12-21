@@ -12,7 +12,7 @@ address:
   postcode: '20052'
   country: United States
 
-summary: '[Content hidden because the project is under review.]'
+summary: '(Content hidden because the project is under review.)'
 abstract: ''
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ date: '2023-12-15'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-01T00:00:00Z'
+# publishDate: '2024-01-01T00:00:00Z'
 
 authors: []
 tags: []
