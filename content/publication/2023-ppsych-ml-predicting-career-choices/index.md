@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-05-27"
-doi: "10.1007/s10551-023-05534-6"
+doi: "10.1111/peps.12529"
 draft: false
 
 # Schedule page publish date (NOT publication's date).
