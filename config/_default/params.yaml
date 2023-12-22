@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: forest
-  theme_night: forest
+  # theme_night: forest
   font: forest
   font_size: L
 
