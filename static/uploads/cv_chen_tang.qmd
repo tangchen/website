@@ -3,10 +3,10 @@ format:
   pdf:
     documentclass: article
     geometry:
-      - top=20mm
+      - top=15mm
       - left=20mm
       - right=20mm
-      - bottom=20mm
+      - bottom=15mm
       - heightrounded
     fontfamily: libertinus
     colorlinks: true
@@ -30,7 +30,7 @@ Kogod School of Business, American University\\
 \href{https://tangc.net}{Website} ∙
 \href{https://www.linkedin.com/in/tangchen/}{LinkedIn}\\
 \vspace{3pt}
-\textit{(Updated: 12/2023)}
+\textit{(Updated: 02/2024)}
 \end{center}
 \vspace{5pt}
 ```
@@ -104,17 +104,17 @@ Yang, Y., Tang, C., Qu, X., Wang, C., & Denson, T. F. (2018). Group facial width
 
 ## **MANUSCRIPTS UNDER REVIEW**
 
-Tang, C., Hickman, L., Song, Q. C., & Alexander III, L. (2nd R&R). \[Details omitted for blind reviewing\]. *Journal of Applied Psychology*.
+Tang, C., Hickman, L., Song, Q. C., & Alexander III, L. (2nd R&R). \[Title omitted for blind reviewing\]. *Journal of Applied Psychology*.
 
-Song, Q. C., Tang, C., & Wee, S. (1st R&R). \[Details omitted for blind reviewing\]. *Journal of Applied Psychology*.
+Song, Q. C., Tang, C., & Wee, S. (1st R&R). \[Title omitted for blind reviewing\]. *Journal of Applied Psychology*.
 
-Lee, S. H., Wei, W., Chen, Y., &Tang, C. (1st R&R). \[Details omitted for blind reviewing\]. *Journal of Occupational and Organizational Psychology.*
+Lee, S. H., Wei, W., Chen, Y., &Tang, C. (1st R&R). \[Title omitted for blind reviewing\]. *Journal of Occupational and Organizational Psychology.*
 
-Wee, S., Newman, D. A., Song, Q. C., & Tang, C. (1st R&R). \[Details omitted for blind reviewing\]. *Journal of Applied Psychology*.
+Wee, S., Newman, D. A., Song, Q. C., & Tang, C. (1st R&R). \[Title omitted for blind reviewing\]. *Journal of Applied Psychology*.
+
+Tang, C., Newman, D. A., Song, Q. C., & Wee, S. (under review). \[Title omitted\]. *Journal of Applied Psychology*.
 
 ## **MANUSCRIPTS IN PREPARATION**
-
-Tang, C., Newman, D. A., Song, Q. C., & Wee, S. (to be submitted). Shrinkage of diversity tradeoff curves in personnel selection: A comparison of local validity studies, meta-analysis, Bayes-analysis, and ensemble machine learning.
 
 Tang, C., Zhang. B., Lin. Z., Anglim. J., & Li. J. (to be submitted). Faking detection using item-level machine learning.
 
@@ -125,8 +125,6 @@ Tang, C., Song, Q. C., & Hickman, L. (writing in progress). Detecting and avoidi
 Culpepper, S. A. & Tang, C. (model implementation). Rank likelihood for non-normal data in Bayesian multilevel models.
 
 Tang, C., Chen, Y., Song, Q. C., & Newman, D. A. (writing in progress). Valuing diversity in hiring when choosing a predictor weighting method: An extension of Sackett et al. (2017).
-
-Lee, SH., & Tang, C. (data collection). Won't stop searching: Detachment, self-improvement, and job search outcomes.
 
 ## **BOOK CHAPTERS/SECTIONS**
 
